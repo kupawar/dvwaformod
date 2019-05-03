@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "title": "Web Application",
+    "owner": "Kuldeep Pawar",
+    "description": "ABCD"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "ABCD",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "Kuldeep Pawar"
+  }
+}
